@@ -1,0 +1,26 @@
+_repo: Mother_1387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wister, Owen
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '450'
+    url: http://www.gutenberg.org/2009/agents/450
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
+description: ''
+gutenberg_issued: '1998-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Investments -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Storytelling -- Fiction'
+- GITenberg
+title: Mother
+url: http://www.gutenberg.org/ebooks/1387
